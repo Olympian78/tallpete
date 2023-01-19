@@ -2,6 +2,8 @@ import fitz
 import streamlit as st
 import pandas as pd
 
+st.set_page_config(page_title='Cranberry Extract Invoices')
+
 order_df = pd.DataFrame(columns=['order_no', 'document_date', 'store_name', 'pk_unit'], dtype=str)
 
 # fname = "PO - 4801417909.pdf"
