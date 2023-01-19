@@ -33,4 +33,4 @@ for i, ff in enumerate(files, start=1):
 st.write('Order preview:')
 st.write(order_df)
 
-st.download_button('Download .xlsx file', order_df.to_csv(index=False))
+st.download_button('Download .txt (CSV) file', order_df.to_csv(index=False))
