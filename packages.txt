@@ -1,1 +1,1 @@
-libxcrypt
+libssl1.1
