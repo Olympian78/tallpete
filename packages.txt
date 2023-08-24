@@ -1,1 +1,1 @@
-libcrypt
+libcrypt-compat
