@@ -1,2 +1,3 @@
 pandas
+libxml2
 pymupdf
