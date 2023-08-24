@@ -1,2 +1,1 @@
-libssl1.1
-libcrypt.so.2
+libxcrypt
