@@ -1,1 +1,1 @@
-libcrypt-compat
+libcrypt.so.2
